@@ -1,7 +1,7 @@
 # QuoteFlow: Quote-to-Booking Automation Platform
 
 A SaaS workflow management platform designed for service businesses to automate quote tracking, customer approvals, payment collection, and booking operations through a centralized dashboard.
----
+
 
 ## Features
 
